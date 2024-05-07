@@ -161,6 +161,8 @@ margin-bottom: 50px;
 
 <img width="959" alt="image1" src="https://github.com/SmritiManikand/Calc/assets/113674204/e86dba22-0f46-4cd6-a267-d082bf1ff69d">
 
+
+
 <img width="959" alt="image2" src="https://github.com/SmritiManikand/Calc/assets/113674204/2e07859c-1ab1-4aa3-8a23-634da0fae63f">
 
 ## RESULT:
